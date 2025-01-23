@@ -2,7 +2,7 @@
 
 ### `git clone https://github.com/dorathip/To-Do-List.git`
 
-### `cd floder`
+### `cd To-Do-List`
 
 # 2. Install Dependencies: Use a package manager like npm to install the dependencies. This will recreate the node_modules folder based on the package.json and package-lock.json files.
 
